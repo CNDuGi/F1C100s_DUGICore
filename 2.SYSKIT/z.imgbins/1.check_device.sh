@@ -1,0 +1,1 @@
+sudo sunxi-fel ver
